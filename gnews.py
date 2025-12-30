@@ -13,6 +13,8 @@ Features:
 - Proper response formatting
 """
 
+## this is my first experience writing a remote MCP Server which I will host on tyhe cloud
+
 import os
 import logging
 from typing import Optional, Literal, List
